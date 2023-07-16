@@ -26,8 +26,6 @@
 
 <ul>
   <li>RecordButton - Starts/stops recording</li>
-  <li>Timer - Shows recording duration</li>
-  <li>AudioList - Displays saved clips</li>
 </ul>
 
 <h2>Usage</h2>
